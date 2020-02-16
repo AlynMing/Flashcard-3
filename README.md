@@ -8,7 +8,7 @@
 A flashcard app for CodePath's Android Development class! ✨
 
 ### App Walk-though
-<img src="https://imgur.com/PaLb2Ny" width=200><br>
+<img src="https://i.imgur.com/PaLb2Ny.gif" width=200><br>
 
 ## Required
 - [X] Create New Project in Android Studio
