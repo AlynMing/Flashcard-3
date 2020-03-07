@@ -1,26 +1,23 @@
 ## Flashcard
 
-## Lab 1
+## Lab 3
 
 ### App Description
-A flashcard app for CodePath's Android Development class! ✨
+Users can now add questions and answers and these will be saved in the database, so when the users relaunches the app, they can see the questions and answers they have previously entered!
 
 ### App Walk-though
-<img src="https://i.imgur.com/PaLb2Ny.gif" width=200><br>
+
+<img src="https://imgur.com/WtChRCW.gif" width=200><br>
 
 ## Required
-- [X] Create New Project in Android Studio
-- [X] Add a view for the front side of the flashcard to display the question
-- [X] Add a view for the back side of the flashcard to display the answer
-- [X] Build in logic to show the answer side when the card is tapped
-- [X] Push code to GitHub
+- [X] User can create a card and still see their created card when the app is relaunched.
+- [X] User can create muliple cards and browse through all created cards
 
 ## Optional
-- [x] toggle the flashcard between the question side and the answer side
-- [ ] Style the question and answer side of the card to better distinguish between the two sides
-- [ ] Add selectable multiple choice answers beneath the card
-   - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
-- [ ] Further customize and style the card
+- [ ] User can delete a card and no longer see it in their deck anymore
+- [ ] Flashcards are shown in random order instead of the order they were created in
+- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
+- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
 
 -----------------------------------------------------------------------------------------------
 
@@ -49,21 +46,30 @@ Users can now add their own questions and answers!
 
 --------------------------------------------------------------
 
-## Lab 3
+## Lab 1
 
 ### App Description
-Users can now add questions and answers and these will be saved in the database, so when the users relaunches the app, they can see the questions and answers they have previously entered!
+A flashcard app for CodePath's Android Development class! ✨
 
 ### App Walk-though
-
-<img src="https://imgur.com/WtChRCW.gif" width=200><br>
+<img src="https://i.imgur.com/PaLb2Ny.gif" width=200><br>
 
 ## Required
-- [X] User can create a card and still see their created card when the app is relaunched.
-- [X] User can create muliple cards and browse through all created cards
+- [X] Create New Project in Android Studio
+- [X] Add a view for the front side of the flashcard to display the question
+- [X] Add a view for the back side of the flashcard to display the answer
+- [X] Build in logic to show the answer side when the card is tapped
+- [X] Push code to GitHub
 
 ## Optional
-- [ ] User can delete a card and no longer see it in their deck anymore
-- [ ] Flashcards are shown in random order instead of the order they were created in
-- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
-- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
+- [x] toggle the flashcard between the question side and the answer side
+- [ ] Style the question and answer side of the card to better distinguish between the two sides
+- [ ] Add selectable multiple choice answers beneath the card
+   - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
+- [ ] Further customize and style the card
+
+-----------------------------------------------------------------------------------------------
+
+
+
+
