@@ -2,6 +2,9 @@
 <resources>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="skyBlue">#22C0EE</color>
+    <color name="pastelGreen">#72DC7B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="navyBlue">#0f4c81</color>
     <color name="pastelOrange">#ffa372</color>

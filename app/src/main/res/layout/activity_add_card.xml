@@ -11,7 +11,7 @@
         android:layout_width="125dp"
         android:layout_height="62dp"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="339dp"
+        android:layout_marginTop="500dp"
         android:layout_marginEnd="4dp"
         android:src="@drawable/ic_cancel" />
 
@@ -20,14 +20,15 @@
         android:layout_width="125dp"
         android:layout_height="62dp"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="339dp"
+        android:layout_marginTop="500dp"
         android:layout_marginEnd="296dp"
         android:src="@drawable/ic_save" />
 
     <EditText
         android:id="@+id/editQuestionField"
-        android:layout_width="match_parent"
+        android:layout_width="370dp"
         android:layout_height="70dp"
+        android:backgroundTint="@color/skyBlue"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="20dp"
         android:layout_marginTop="20dp"
@@ -37,8 +38,9 @@
 
     <EditText
         android:id="@+id/editAnswerField"
-        android:layout_width="match_parent"
+        android:layout_width="400dp"
         android:layout_height="70dp"
+        android:backgroundTint="@color/skyBlue"
         android:layout_alignParentEnd="true"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="20dp"
