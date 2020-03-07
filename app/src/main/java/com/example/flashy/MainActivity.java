@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        if (requestCode == 100) { // this 100 needs to match the 100 we used when we called startActivityForResult!
+        if (requestCode == 100 && data != null) { // this 100 needs to match the 100 we used when we called startActivityForResult!
             String question = data.getExtras().getString("question"); // 'string1' needs to match the key we used when we put the string in the Intent
             String answer = data.getExtras().getString("answer");
 
