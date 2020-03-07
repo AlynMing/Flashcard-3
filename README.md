@@ -6,7 +6,7 @@
 Users can now add their own questions and answers!
 
 ### App Walk-though
-<img src="https://i.imgur.com/1nBsi1w.gifv" width=200><br>
+<img src="https://i.imgur.com/1nBsi1w.gif" width=200><br>
 
 ## Required
 - [X] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
