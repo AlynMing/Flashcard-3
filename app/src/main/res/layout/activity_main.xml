@@ -51,4 +51,13 @@
         android:layout_marginEnd="-2dp"
         android:src="@drawable/ic_add" />
 
+    <ImageView
+        android:id="@+id/nextButton"
+        android:layout_width="125dp"
+        android:layout_height="62dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="500dp"
+        android:layout_marginEnd="294dp"
+        android:src="@drawable/ic_next" />
+
 </RelativeLayout>
