@@ -22,7 +22,7 @@
         android:text="What is the powerhouse of the cell?"
         android:textAlignment="center"
         android:textColor="@color/white"
-        android:textSize="40sp" />
+        android:textSize="30sp" />
 
     <TextView
         android:id="@+id/flashcard_answer"
@@ -39,7 +39,7 @@
         android:text="The mitochondria!"
         android:textColor="@color/white"
         android:textAlignment="center"
-        android:textSize="40sp"
+        android:textSize="30sp"
         android:visibility="gone" />
 
     <ImageView
